@@ -24,17 +24,6 @@ $ git clone https://github.com/AverageHelper/dedupe.git
 $ cd dedupe
 ```
 
-## Table of contents
-
-- [dedupe](#dedupe)
-  - [Prerequisites](#prerequisites)
-  - [Clone the Repo](#clone-the-repo)
-  - [Table of contents](#table-of-contents)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [Authors](#authors)
-  - [License](#license)
-
 ## Usage
 
 ```sh
